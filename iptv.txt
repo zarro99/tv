@@ -1,4 +1,4 @@
-﻿超清精彩,#genre#
+﻿超清精彩0601,#genre#
 纯享4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
 CCTV4K,http://publiciptv.dynv6.net:25140/rtsp/115.153.254.81/PLTV/88888888/224/3221227073/106537394.smil
 北京卫视4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226394/index.m3u8
@@ -8,9 +8,18 @@ CCTV4K,http://publiciptv.dynv6.net:25140/rtsp/115.153.254.81/PLTV/88888888/224/3
 浙江卫视4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226404/2/index.m3u8?fmt=ts2hls
 山东卫视4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226407/2/index.m3u8?fmt=ts2hls
 四川卫视4K,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226424/2/index.m3u8?fmt=ts2hls
+NewTV超级电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8
+NewTV超级电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225766/index.m3u8
 黑莓动画,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
 黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8
 黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8
+黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
+CHC动作,http://publiciptv.dynv6.net:12345/udp/239.252.219.85:5140
+CHC家庭,http://publiciptv.dynv6.net:12345/udp/239.252.219.84:5140
+CHC影迷,http://publiciptv.dynv6.net:12345/udp/239.252.219.83:5140
+CHC影迷,http://publiciptv.dynv6.net:25140/rtsp/115.153.254.81/PLTV/88888888/224/3221226990/86128784.smil
+CHC家庭,http://publiciptv.dynv6.net:25140/rtsp/115.153.254.81/PLTV/88888888/224/3221226959/86128800.smil
+CHC动作,http://publiciptv.dynv6.net:25140/rtsp/115.153.254.81/PLTV/88888888/224/3221226992/86128817.smil
 CCTV6,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u8
 江西2都市,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
 江西3经济,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
@@ -53,64 +62,8 @@ CCTV6,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225632/index.m3u
 翡翠台,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0401&tk=2aca1ad9a849
 翡翠台,http://122.152.202.33/s/81a8a44f/index.m3u8?id=53
 翡翠台,http://mzitv.cn:32/tsfile/live/1016_1.m3u8
-NewTV超级电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225623/index.m3u8
-NewTV超级电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225766/index.m3u8
-黑莓动画,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
-黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
-黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8
-黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8
 
-CHC动作,http://publiciptv.dynv6.net:12345/udp/239.252.219.85:5140
-CHC家庭,http://publiciptv.dynv6.net:12345/udp/239.252.219.84:5140
-CHC影迷,http://publiciptv.dynv6.net:12345/udp/239.252.219.83:5140
-CHC影迷,http://publiciptv.dynv6.net:25140/rtsp/115.153.254.81/PLTV/88888888/224/3221226990/86128784.smil
-CHC家庭,http://publiciptv.dynv6.net:25140/rtsp/115.153.254.81/PLTV/88888888/224/3221226959/86128800.smil
-CHC动作,http://publiciptv.dynv6.net:25140/rtsp/115.153.254.81/PLTV/88888888/224/3221226992/86128817.smil
 
-八大精彩,https://iptv.zarro.ccwu.cc/live/rx2/1024/9c5eb6efea98b18aa7a0e60cae1af719/index.m3u8
-龍華日韓,https://iptv.zarro.ccwu.cc/live/rx6/382/394049251526d0dce7c94867cc51d37c/index.m3u8
-東森戲劇-備,https://iptv.zarro.ccwu.cc/live/rx2/321/2f4ea7b181a945528b7738380485a066/index.m3u8
-八大戲劇,https://iptv.zarro.ccwu.cc/live/rx3/81/05abcf3261fa98a4a056583fb0ee4c57/index.m3u8
-緯來戲劇,https://iptv.zarro.ccwu.cc/live/rx2/2727/36b7c5a197f2796e3e22065bc2f8ee03/index.m3u8
-東森電影,https://iptv.zarro.ccwu.cc/live/rx3/350/eefb520f8d3b4c3467b92379cbeb935a/index.m3u8
-東森電影,https://iptv.zarro.ccwu.cc/live/rx2/2720/a1eeb6579474e5cd4e312fe59d6bb1b1/index.m3u8
-緯來電影,https://iptv.zarro.ccwu.cc/live/rx2/2728/0f177c09ae2291f7f2fd7226d9d63600/index.m3u8
-HBO HD,https://iptv.zarro.ccwu.cc/live/rx3/332/160ab6e3b191403c827196c018ec0344/index.m3u8
-HBO HD,https://iptv.zarro.ccwu.cc/live/rx1/2823/8a2198921f121bda12a2d7c3d908bd29/index.m3u8
-東森洋片,https://iptv.zarro.ccwu.cc/live/rx3/1128/f77911d8667413c62ffb5522e140ee01/index.m3u8
-壹電影,https://iptv.zarro.ccwu.cc/live/rx6/2284/534eb77d71c26908d76c2a0d2582a703/index.m3u8
-好萊塢電影,https://iptv.zarro.ccwu.cc/live/rx3/37/a39af006b3114d9796dc34052dc12762/index.m3u8
-愛爾達影劇,https://iptv.zarro.ccwu.cc/live/rx6/500/0449c21df9c9a9c6d710f6961b6a31f5/index.m3u8
-CineMAX,https://iptv.zarro.ccwu.cc/live/rx1/346/e4ed29f1c90abbce77af020f4590c887/index.m3u8
-緯來精彩,https://iptv.zarro.ccwu.cc/live/rx3/2280/6f351458fe0e4c1b980542508f1786d4/index.m3u8
-EYE戲劇,https://iptv.zarro.ccwu.cc/live/rx2/191/9844351c76a1d8b931fa9ce4d75f5c11/index.m3u8
-三立戲劇,https://iptv.zarro.ccwu.cc/live/rx2/64/6a8a649c2f0e67369f217293bb2f027b/index.m3u8
-三立戲劇,https://iptv.zarro.ccwu.cc/live/rx3/2819/dbaeabf28c8ad7f801080066634b7e97/index.m3u8
-龍華偶像,https://iptv.zarro.ccwu.cc/live/rx1/385/6893c00017254515f9e83206ed603dac/index.m3u8
-霹靂臺灣,https://iptv.zarro.ccwu.cc/live/rx2/1339/ad14e3e3f16d2ab0c67eaf809481453d/index.m3u8
-美亞電影,https://iptv.zarro.ccwu.cc/live/rx2/375/32545f856489cb883e0e85b8d6e21b50/index.m3u8
-HBOSignature,https://iptv.zarro.ccwu.cc/live/rx3/329/c7cc598c9ce6547c15a2f805db2a4126/index.m3u8
-HBOSignature,https://iptv.zarro.ccwu.cc/live/rx1/2824/1e73a237b32995792bd516dd0a995949/index.m3u8
-HBO Hits,https://iptv.zarro.ccwu.cc/live/rx3/330/dbd1a7af13952246ab435e5dd189a445/index.m3u8
-采昌影劇,https://iptv.zarro.ccwu.cc/live/rx6/2804/b85cad3ca2e1a68ca39bb47d67afa2c3/index.m3u8
-影迷數位電影,https://iptv.zarro.ccwu.cc/live/rx6/2800/6f0115a5ee27c4d6024d04033790e8d2/index.m3u8
-龍華戲劇,http://iptv.zarro.ccwu.cc/live/rx6/2796/6c42d2b7652770d121aa4b0cd7dc53fe/index.m3u8
-龍華經典,http://iptv.zarro.ccwu.cc/live/rx6/100/382f6a8ecde4c0a065d677d355ec9f2d/index.m3u8
-龍翔時代,https://iptv.zarro.ccwu.cc/live/rx6/373/1211fae2ba7ce9108a5f0c0df696ab4b/index.m3u8
-AXN臺灣,https://iptv.zarro.ccwu.cc/live/rx6/2816/2eb64f9dc5fe51e0d8b6fbff2dcb925f/index.m3u8
-天映經典,https://iptv.zarro.ccwu.cc/live/rx5/2289/c6b268f6f9f471bef0e26557fa1ac682/index.m3u8
-AXN亞洲,https://iptv.zarro.ccwu.cc/live/rx6/1066/eeb9d44932c969f2f53f2444b08d2947/index.m3u8
-Trill恐怖電影,https://iptv.zarro.ccwu.cc/live/rx6/18/c3a80d4137bc6c4a8d2259ca68baeb70/index.m3u8
-龍華電影,https://iptv.zarro.ccwu.cc/live/rx3/311/2a4b6cc3e989028f7e28511b2c7496da/index.m3u8
-華納電影,https://iptv.zarro.ccwu.cc/live/rx3/83/99bdc14a08a792d5245e33113b3f6245/index.m3u8
-CATCHPLAY,https://iptv.zarro.ccwu.cc/live/rx6/362/f2624359c1f8966dfa559f640164f9d6/index.m3u8
-TVB亞洲劇,https://iptv.zarro.ccwu.cc/live/rx6/1048/35626f14e1c5aaaceaeaa95d61a0b97e/index.m3u8
-TVB粵語片,https://iptv.zarro.ccwu.cc/live/rx6/1589/316058fa7ad11d4c460d039d5d75e309/index.m3u8
-CHC高清電影,https://iptv.zarro.ccwu.cc/live/rx3/1345/659d81fd07de3c9ebb6595aa143422b1/index.m3u8
-CHC動作電影,https://iptv.zarro.ccwu.cc/live/rx3/1346/1e3e0382d204c7c1e374c27c2e8396c8/index.m3u8
-CHC家庭影院,http://iptv.zarro.ccwu.cc/live/rx6/1347/c61786e5a91ca66f8fee0a9686234494/index.m3u8
-龍華洋片,https://iptv.zarro.ccwu.cc/live/rx3/341/37cdce4d94de7d9ec88aac2ee9783ab8/index.m3u8
-TVB功夫台,https://iptv.zarro.ccwu.cc/live/rx6/168/055e4156c79a973b051b924d675bfe54/index.m3u8
 
 央省卫视,#genre#
 CCTV1,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225501/index.m3u8?fmt=ts2hls
@@ -210,10 +163,6 @@ CCTV17,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3
 江西陶瓷,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226247/index.m3u8?fmt=ts2hls
 
 数字频道,#genre#
-黑莓动画,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225672/index.m3u8
-黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225718/index.m3u8
-黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225764/index.m3u8
-黑莓电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225769/index.m3u8
 NewTV东北热剧,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226202/index.m3u8
 NewTV中国功夫,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225660/index.m3u8
 NewTV军事评论,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225757/index.m3u8
