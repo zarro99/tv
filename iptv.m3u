@@ -591,7 +591,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226383/2/index.m3u8?fm
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226243/index.m3u8$1080p
 #EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://logo.catvod.com/睛彩竞技.png" group-title="数字频道",睛彩竞技
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226400/2/index.m3u8?fmt=ts2hls$1080p
-#EXTINF:-1 tvg-name="睛彩蓝球" tvg-logo="https://logo.catvod.com/睛彩蓝球.png" group-title="数字频道",睛彩蓝球
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://logo.catvod.com/睛彩篮球.png" group-title="数字频道",睛彩篮球
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226240/index.m3u8$1080p
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://logo.catvod.com/睛彩篮球.png" group-title="数字频道",睛彩篮球
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226403/2/index.m3u8?fmt=ts2hls$1080p
