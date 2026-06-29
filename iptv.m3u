@@ -688,7 +688,7 @@ http://publiciptv.dynv6.net:25140/rtsp/115.153.254.81/PLTV/88888888/224/32212270
 #EXTINF:-1 tvg-name="爱生活" tvg-logo="https://logo.catvod.com/爱生活.png" group-title="江西电信自建",爱生活
 http://publiciptv.dynv6.net:25140/rtsp/115.153.254.81/PLTV/88888888/224/3221227024/86441150.smil
 #EXTINF:-1 tvg-name="爱电影" tvg-logo="https://logo.catvod.com/爱电影.png" group-title="江西电信自建",爱电影
-http://publiciptv.dynv6.net:25140/rtsp:/115.153.254.81/PLTV/88888888/224/3221226985/86441021.smil
+http://publiciptv.dynv6.net:25140/rtsp/115.153.254.81/PLTV/88888888/224/3221226985/86441021.smil
 #EXTINF:-1 tvg-name="爱综艺" tvg-logo="https://logo.catvod.com/爱综艺.png" group-title="江西电信自建",爱综艺
 http://publiciptv.dynv6.net:25140/rtsp/115.153.254.81/PLTV/88888888/224/3221226983/86440966.smil
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://logo.catvod.com/经典电影.png" group-title="江西电信自建",经典电影
